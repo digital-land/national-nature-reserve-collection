@@ -1,11 +1,11 @@
-# XXX collection
+# National nature reserve collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/main/LICENSE)
-[![Run pipeline](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/national-nature-reserve/blob/main/LICENSE)
+[![Run pipeline](https://github.com/digital-land/national-nature-reserve-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/national-nature-reserve-collection/actions/workflows/run.yml)
 
-The data and pipeline to build the [XXX dataset](https://www.digital-land.info/dataset/XXX).
+The data and pipeline to build the [National nature reserve dataset](https://www.digital-land.info/dataset/national-nature-reserve).
 
-# Collection
+# Collection of national nature reserves
 
 * [collection/source.csv](collection/source.csv) — the list of data sources by organisation, see [specification/source](https://digital-land.github.io/specification/schema/source/)
 * [collection/endpoint.csv](collection/endpoint.csv) — the list of endpoint URLs for the collection, see [specification/endpoint](https://digital-land.github.io/specification/schema/endpoint)
