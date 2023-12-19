@@ -1,2 +1,2 @@
 endpoint,endpoint-url,parameters,plugin,entry-date,start-date,end-date
-c6359069dd9be2a59eeba07eaad94fef142b9532daf7c575fa1a2903aeb7a170,https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/National_Nature_Reserves_England/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson,,,2023-12-06T16:16:18:35Z,,
+ac8444ec72f8c3bb5d5721f0f5dc4a7893050e3063ca640df194aef82e15e7a0,https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/National_Nature_Reserves_England/FeatureServer/0/,,arcgis,2023-12-06T16:16:18:35Z,,
